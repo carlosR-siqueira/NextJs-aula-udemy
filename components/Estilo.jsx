@@ -14,5 +14,6 @@ export default function Estilo(props) {
                 Texto #02
             </h2>
         </div>
+        
     )
 }
